@@ -1,0 +1,33 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Aerospace Engineering"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "07d4f055-5edf-ebf2-c247-7bbf2d19dd91"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Fundamentals of Systems Engineering",
+  "course_description": "General introduction to systems engineering using both the classical V-model and the new _Meta_ approach. Topics include stakeholder analysis, requirements definition, system architecture and concept generation, trade-space exploration and concept selection, design definition and optimization, system integration and interface management, system safety, verification and validation, and commissioning and operations. Discusses the trade-offs between performance, lifecycle cost and system operability. Readings based on systems engineering standards and papers. Students apply the concepts of systems engineering to a cyber-electro-mechanical system, which is subsequently entered into a design competition.\n\nStudents will prepare a PDR (Preliminary Design Review)-level design intended for the _Cansat Competition_.This year's class will be taught in the form of a Small-Private-Online-Course (SPOC) and offered simultaneously to students at MIT under number 16.842 and Ecole Polytechnique F\u00e9d\u00e9rale de Lausanne (EPFL) as ENG-421.\n",
+  "department_numbers": [
+    "16"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "16.842",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Design Assignments",
+    "Written Assignments",
+    "Lecture Videos"
+  ],
+  "title": "Course Metadata"
+}
